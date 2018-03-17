@@ -19,6 +19,7 @@ theme
 
 - Ruby コミッターなど
 - Twitter, GitHub: `@znz`
+- <https://blog.n-z.jp>
 
 # Jekyll とは?
 
